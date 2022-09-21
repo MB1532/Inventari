@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/windows/runner",
+    "editor.formatOnSave": false
+}

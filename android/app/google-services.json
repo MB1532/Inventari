@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "204621702625",
+    "project_id": "appventoryrotativos",
+    "storage_bucket": "appventoryrotativos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204621702625:android:a88d4a4f3864bcb1dcdea0",
+        "android_client_info": {
+          "package_name": "com.example.aplicacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204621702625-83eu7m40peos74u9iv5lpn6pecbov3to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhf1DKICdDrBOTcvNNFg_PJClSr-f7RMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204621702625-83eu7m40peos74u9iv5lpn6pecbov3to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204621702625:android:0b77c951c21e04fadcdea0",
+        "android_client_info": {
+          "package_name": "com.inventario.global"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204621702625-83eu7m40peos74u9iv5lpn6pecbov3to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhf1DKICdDrBOTcvNNFg_PJClSr-f7RMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204621702625-83eu7m40peos74u9iv5lpn6pecbov3to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
